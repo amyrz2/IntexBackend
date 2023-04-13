@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JW7LgCaBHq7dBTYEhq6xqXwPA6TPRjNiLrauNNFgiRY=",
+  "Source": "IntexDatabaseConnection",
+  "BasePath": "_content/IntexDatabaseConnection",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
